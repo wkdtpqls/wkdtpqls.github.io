@@ -3,10 +3,11 @@ main:
   - title: "Home"
     url: "https://wkdtpqls.github.io"
   - title: "Category"
-    url: "_pages/categories/javascript/"
+    url: "/categories/javascript"
   - title: "About"
     url: /About/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
