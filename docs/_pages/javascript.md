@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /categories/categories/javascript/
+permalink: /categories/javascript/
 title: "javascript"
 
 author_profile: true
