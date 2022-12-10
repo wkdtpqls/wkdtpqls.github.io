@@ -15,7 +15,7 @@ sidebar:
   - title: Programming
     children:
       - title: "Javascript"
-        url: categories/javascript/
+        url: /categories/javascript/
         category: "javascript"
       - title: "Typescript"
         url: typescript/
