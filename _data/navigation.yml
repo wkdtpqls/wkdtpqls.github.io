@@ -16,6 +16,7 @@ sidebar-category:
     children:
       - title: "블로그"
         url: "/blog"
+        category: "javascript"
       - title: "카테고리B"
         url:  "/CategoryB"
       - title: "카테고리C"
