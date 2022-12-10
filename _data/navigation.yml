@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "About"
-    url: "/about/"
+  - title: "Home"
+    url: "https://wkdtpqls.github.io"
   - title: "Category"
     url: "/categories/"
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "About"
+    url: /About/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
