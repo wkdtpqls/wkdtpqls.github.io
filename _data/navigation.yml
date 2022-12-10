@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: "https://wkdtpqls.github.io"
   - title: "Category"
-    url: "/categories/javascript"
+    url: "/javascript/"
   - title: "About"
-    url: /About/
+    url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

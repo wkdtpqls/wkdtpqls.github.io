@@ -1,3 +1,4 @@
+<!--
 ---
 
 permalink: /about/
@@ -84,3 +85,14 @@ For even more demo pages check the [posts archive][year-archive].
 ---
 
 Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+-->
+
+---
+permalink: /about/
+title: "About"
+
+---
+
+![icon](/assets/logo.ico/apple-icon-120x120.png)
+
+원하는 자기소개 상세 내용
