@@ -2,12 +2,12 @@
 main:
   - title: "Home"
     url: "https://wkdtpqls.github.io"
-  - title: "Category"
-    url: "/category/"
-  - title: "About"
-    url: /about/
   - title: "Archive"
     url: /year-archive/
+  - title: "tag"
+    url: /tags/
+  - title: "Category"
+    url: /categories/
   # - title: "Sitemap"
   #   url: /sitemap/
 
@@ -22,4 +22,3 @@ sidebar-category:
        
       - title: "Portfolio"
         url: "/portfolio"
-       
