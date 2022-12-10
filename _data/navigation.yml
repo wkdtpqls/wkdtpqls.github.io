@@ -15,11 +15,11 @@ sidebar:
   - title: Programming
     children:
       - title: "Javascript"
-        url: /categories/javascript/
+        url: /javascript
         category: "javascript"
       - title: "Typescript"
-        url: typescript/
+        url: /typescript
         category: "typescript"
       - title: "Portfolio"
-        url: portfolio/
+        url: /portfolio
         category: "portfoilo"

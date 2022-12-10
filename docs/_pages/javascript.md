@@ -1,8 +1,7 @@
 ---
 layout: archive
-permalink: /categories/javascript/
+permalink: /javascript
 title: "javascript"
-
 author_profile: true
 sidebar:
   nav: "sidebar"
