@@ -16,7 +16,7 @@ sidebar-category:
     children:
       - title: "Javascript"
         url: /javascript
-        category: "javascript"
+        categories: "javascript"
       - title: "Typescript"
         url: /typescript
         category: "typescript"
