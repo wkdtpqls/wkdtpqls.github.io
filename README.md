@@ -1,5 +1,5 @@
 <center>
-<img src="/images/gitblogimg.png" width="100%" height="500px">
+<img src="/images/gitblogimg.png" width="100%" height="650px">
 </center>
 
 ## 🕊 Github.io Blog
