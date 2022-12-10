@@ -1,3 +1,7 @@
+<center>
+<img src="/images/gitblogimg.png" width="100%" height="300px">
+</center>
+
 ## 🕊 Github.io Blog
 > Jekyll을 사용한 Git Blog 관리, minimal-mistakes 테마 활용
 
