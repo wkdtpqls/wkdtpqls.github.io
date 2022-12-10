@@ -12,14 +12,14 @@ main:
   #   url: /sitemap/
 
 sidebar-category:
-  - title: Programming
+  - title: "Programming"
     children:
       - title: "Javascript"
-        url: /javascript
-        category: "javascript"
+        url: "/javascript"
+        
       - title: "Typescript"
-        url: /typescript
-        category: "typescript"
+        url: "/typescript"
+       
       - title: "Portfolio"
-        url: /portfolio
-        category: "portfoilo"
+        url: "/portfolio"
+       
