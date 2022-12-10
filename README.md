@@ -3,6 +3,7 @@
 
 - 운영 기간 : 2022.09.01 ~ing
 - minimal-mistakes 공식사이트 : [공식 홈페이지](https://mmistakes.github.io/minimal-mistakes/) | [가이드](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) | [Github Link](https://github.com/mmistakes/minimal-mistakes)
+- 블로그 ▶️ [바로가기](https://wkdtqpls.github.io/)
 
 <br>
 
@@ -20,3 +21,15 @@
   - [x] 블로그 통계 자료 확인하기 - Google Analytics
 3. 고민 중
   - [ ] 광고 - Google AdSense
+
+<br>
+
+## 💻 Blog Contents
+1. 업로드 내용
+- [x] 강의 정리 및 기록
+- [x] 강의 자료 복습
+- [x] 포트폴리오 업로드
+2. 언어
+- [x] javascript
+- [x] typescript
+- [x] html/css
