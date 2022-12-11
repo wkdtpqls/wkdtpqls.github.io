@@ -4,7 +4,7 @@ permalink: javascript
 title: "자바스크립트"
 author_profile: true
 sidebar:
-  nav: "sidebar-categroy"
+  nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.javascript %}

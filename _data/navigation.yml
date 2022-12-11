@@ -19,7 +19,7 @@ sidebar-category:
         category: "javascript"
       - title: "Typescript"
         url: "/typescript"
-        categroy: "typescript"
+        category: "typescript"
   - title: "Proejcts"
     children:      
       - title: "Portfolio"
