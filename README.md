@@ -42,10 +42,10 @@
    
 |수업 날짜| 링 크 | 과 제 | Repository |
 |:------:|:---:|:---:|:---:|
-|2022-09-05|<a href="https://wkdtpqls.github.io/typescript01/">0905</a>|||
-|2022-09-19|<a href="https://wkdtpqls.github.io/typescript02/">0919</a>|||
-|2022-09-26|<a href="https://wkdtpqls.github.io/typescript02/">0926</a>|||
-|2022-10-17|<a href="https://wkdtpqls.github.io/javascript/project01/">1017</a>|<a href="https://wkdtpqls.github.io/HtmlCSSHardCoding/" target="_blank"><img src="https://img.shields.io/badge/RESUME-FF3633?style=flat&logo=Github&logoColor=white" /></a>  <a href="https://typescript-resume.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/RESUME-00C7B7?style=flat&logo=Netlify&logoColor=white" /></a>|<a href="https://github.com/wkdtpqls/HtmlCSSHardCoding">이동하기</a>|
+|2022-09-05|<a href="https://wkdtpqls.github.io/typescript/typescript01/">0905</a>|||
+|2022-09-19|<a href="https://wkdtpqls.github.io/typescript/typescript02/">0919</a>|||
+|2022-09-26|<a href="https://wkdtpqls.github.io/typescript/typescript02/">0926</a>|||
+|2022-10-17|<a href="https://wkdtpqls.github.io/portfolio/project01/">1017</a>|<a href="https://wkdtpqls.github.io/HtmlCSSHardCoding/" target="_blank"><img src="https://img.shields.io/badge/RESUME-FF3633?style=flat&logo=Github&logoColor=white" /></a>  <a href="https://typescript-resume.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/RESUME-00C7B7?style=flat&logo=Netlify&logoColor=white" /></a>|<a href="https://github.com/wkdtpqls/HtmlCSSHardCoding">이동하기</a>|
 |2022-10-24|<a href="https://wkdtpqls.github.io/javascript/javascript01/">1024</a>|||
 |2022-10-31|<a href="https://wkdtpqls.github.io/javascript/javascript02/">1031</a>|||
 |2022-11-07|<a href="https://wkdtpqls.github.io/javascript/javascript03/">1107</a>|||
