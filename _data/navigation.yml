@@ -16,9 +16,10 @@ sidebar-category:
     children:
       - title: "Javascript"
         url: "/javascript"
-        
+        category: "javascript"
       - title: "Typescript"
         url: "/typescript"
-       
+        categroy: "typescript"
       - title: "Portfolio"
         url: "/portfolio"
+        category: "portfolop"
