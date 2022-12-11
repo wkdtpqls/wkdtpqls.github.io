@@ -1,15 +1,13 @@
 ---
 layout: archive
-permalink: javascript
-title: "자바스크립트"
+permalink: porfolio
+title: "포트폴리오"
 author_profile: true
 sidebar:
   nav: "sidebar-categroy"
 ---
 
-{% assign posts = site.categories.javascript %}
+{% assign posts = site.categories.portfolio %}
 {% for post in posts %}
   {% include custom-archive-single.html type=entries_layout %}
 {% endfor %}
-
-## 자바스크립트
