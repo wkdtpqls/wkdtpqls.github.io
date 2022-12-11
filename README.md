@@ -7,7 +7,7 @@
 
 - 운영 기간 : 2022.09.01 ~ing
 - minimal-mistakes 공식사이트 : [공식 홈페이지](https://mmistakes.github.io/minimal-mistakes/) | [가이드](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) | [Github Link](https://github.com/mmistakes/minimal-mistakes)
-- 블로그 ▶️ [바로가기](https://wkdtqpls.github.io/)
+- 블로그 ▶️ [바로가기](https://wkdtpqls.github.io/)
 
 <br>
 
