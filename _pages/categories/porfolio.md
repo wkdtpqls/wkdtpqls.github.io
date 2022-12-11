@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: porfolio
+permalink: portfolio
 title: "포트폴리오"
 author_profile: true
 sidebar:
