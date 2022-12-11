@@ -4,7 +4,7 @@ permalink: portfolio
 title: "포트폴리오"
 author_profile: true
 sidebar:
-  nav: "sidebar-categroy"
+  nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.portfolio %}
