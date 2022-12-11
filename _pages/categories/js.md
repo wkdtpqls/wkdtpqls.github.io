@@ -12,4 +12,4 @@ sidebar:
   {% include custom-archive-single.html type=entries_layout %}
 {% endfor %}
 
-## 자바스크립트
+javascript 강의 내용 복습 및 정리한 내용들 입니다.
